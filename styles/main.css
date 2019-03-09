@@ -9,3 +9,12 @@ body {
 	background: #eee;
 	font-family: 'Open Sans', sans-serif;
 }
+
+h1 {
+	color: blue;
+	text-align: center;
+}
+
+img {
+	position: center;
+}
